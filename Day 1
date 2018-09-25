@@ -1,0 +1,40 @@
+DEMO
+
+#include <stdio.h>
+int main()
+{
+    printf("Hello World");
+    return 0;
+}
+
+ACTIVITY
+
+#include <stdio.h>
+int main()
+{
+    char name[10];
+    printf("Enter your name \n");
+    scanf("%s",name);
+    printf("Name is %s",name);
+    return 0;
+}
+
+1) What is #include <stdio.h>?
+
+#include - Preprocessor directive
+Lines beginning with # are the line that will be preprocessed by preprocessor
+stdio.h defines standard input and output
+h is the headerfile
+
+2)What is printf?
+printf is a function which is used to display the statement
+
+3)What is main()?
+It defines a function that takes no argument.
+
+4)Why should you learn touch typing on a qwerty keyboard?
+Type the above sentence as it is,by using shift keys to big alphabets.
+
+5)How will you learn touch typing on a qwerty keyboard?
+Keep your eyes steady and do not go fast.
+
